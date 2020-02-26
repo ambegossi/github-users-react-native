@@ -99,6 +99,8 @@ export default class User extends Component {
         ) : (
             <Stars
               data={stars}
+              onRefresh={this.refreshList} // Function fires when the user drags the list down
+              refreshing={refreshing} // Variable that stores a true / false state that represents whether the list is updating
               onEndReachedThreshold={0.2} // Load more items when you reach 20% of the end
               onEndReached={haveMore && this.loadMore} // Function that loads more items
               keyExtractor={star => String(star.id)}
