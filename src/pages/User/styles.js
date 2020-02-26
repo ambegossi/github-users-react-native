@@ -75,3 +75,23 @@ export const Author = styled.Text`
   color: #666;
   margin-top: 2px;
 `;
+
+export const Loading = styled.ActivityIndicator.attrs({
+  color: '#7159c1',
+  size: 50,
+})`
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+`;
+
+export const LoadingMore = styled.ActivityIndicator.attrs({
+  color: '#7159c1',
+  size: 20,
+})`
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+`;
