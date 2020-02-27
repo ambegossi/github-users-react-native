@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.codacy.com/manual/ambegossi/github-users-react-native?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ambegossi/github-users-react-native&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/ambegossi/github-users-react-native?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ambegossi/github-users-react-native&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/bdce321d3f7b45e3b08cacc2f57d67e2">
   </a>
 </p>
